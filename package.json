@@ -4,7 +4,7 @@
   "description": "manejo de archivos 1. express como servidor ",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "yargs": "^13.2.4"
   },
   "devDependencies": {},
